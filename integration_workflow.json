@@ -615,7 +615,7 @@
                   "custom_headers": [
                     {
                       "name": "Authorization",
-                      "value": "Bearer 3846978b-c135-4b83-b4ae-584819ff881c"
+                      "value": "Bearer **INSERT INVESTIGATE TOKEN HERE**"
                     }
                   ],
                   "display_name": "Investigate GET Request",
